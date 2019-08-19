@@ -58,7 +58,7 @@ const antonietta = {
     return console.log(a*b);
   }
 }
-// ==== Challenge 2: Reading Object Data ==== 
+// ==== Challenge 2: Reading Object Data ====  
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
