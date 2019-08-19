@@ -41,3 +41,6 @@ console.log(subtract(1,2));
 //   return num * 3;
 // });
 // console.log(triple);
+stretchArray = [1,2,3,4];
+const triple = stretchArray.map((num) => {return num * 3;});
+console.log(triple);
